@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPagingSorting", "GridPagingSorting\GridPagingSorting.csproj", "{22B3F0D5-BB7A-4B05-9CD6-E6187485781A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPagingSortingMedAlt", "GridPagingSorting\GridPagingSortingMedAlt.csproj", "{22B3F0D5-BB7A-4B05-9CD6-E6187485781A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
